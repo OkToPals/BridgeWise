@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/routing-regression-corpus",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/routing-regression-corpus": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/routing-regression-corpus",
+    "origin"
+  ]
+}
